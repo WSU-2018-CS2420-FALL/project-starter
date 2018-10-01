@@ -4,6 +4,8 @@
 logs
 *.log
 build/*
+cmake-build-debug
+.vs
 
 # Exceptions
 !build/.keep
